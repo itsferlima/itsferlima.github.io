@@ -33,7 +33,7 @@ body{
   left: 90%;
   top: 5%;
 
-  background: linear-gradient(95.16deg, rgba(255, 44, 223, 0.75) 3.76%, rgba(0, 178, 255, 0.75) 83.3%);
+  background: linear-gradient(95.16deg, rgba(66, 189, 156, 0.75) 3.76%, rgba(0, 178, 255, 0.75) 83.3%);
   filter: blur(130px);
   border-radius: 50%;
   z-index: -1;
@@ -47,7 +47,7 @@ body{
   top: 90%;
 
 
-  background: linear-gradient(95.16deg, rgba(255, 44, 223, 0.75) 3.76%, rgba(0, 178, 255, 0.75) 83.3%);
+  background: linear-gradient(95.16deg, rgba(66, 189, 156, 0.75) 3.76%, rgba(0, 178, 255, 0.75) 83.3%);
   filter: blur(80px);
   border-radius: 50%;
   z-index: -1;
